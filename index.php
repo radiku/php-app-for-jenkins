@@ -45,6 +45,12 @@ else
             <li><a href="http://aws.amazon.com/php">PHP developer center</a></li>
             <li><a href="https://github.com/aws/aws-sdk-php">AWS SDK for PHP on GitHub</a></li>
         </ul>
+
+        <h2>This section added by Jenkins</h2>
+        <ul>
+            <li><a href="http://habrahabr.com">Habrahabr Magic</a></li>
+        </ul>
+
     </section>
 
     <!--[if lt IE 9]><script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script><![endif]-->
