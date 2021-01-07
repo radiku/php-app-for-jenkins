@@ -48,7 +48,8 @@ else
 
         <h2>This section added by Jenkins</h2>
         <ul>
-            <li><a href="http://habrahabr.com">Habrahabr Magic</a></li>
+            <li><a href="http://www.habrahabr.com">Habrahabr Magic</a></li>
+            <li><a href="https://teamtrees.org/">Help Us Plant 20 Million Trees</a></li>
         </ul>
 
     </section>
